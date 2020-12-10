@@ -1,0 +1,10 @@
+/bin
+/etc
+/include
+/lib
+/lib64
+/share
+/.ipynb_checkpoints
+pyvenv.cfg
+
+
