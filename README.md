@@ -1,7 +1,14 @@
 
+
 First, Install below dependencies, If you want to run your code in your local machine,
 
-Scikit-learn tensorflow matplotlib pandas numpy Jupyter notebook
+Scikit-learn 
+tensorflow 
+matplotlib 
+pandas 
+numpy 
+Jupyter 
+notebook
 
 Otherwise, You can run this notebook file in your google colab and there is you do not need to install this dependencies because everything will be already installed there. But, For that you have to upload dataset files to your google drive and mount your google drive with your google colab notebook.
 
